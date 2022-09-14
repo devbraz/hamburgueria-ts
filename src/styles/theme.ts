@@ -7,7 +7,7 @@ export const theme = extendTheme({
 			hover: "#93D7AF",
 		},
 		secondary: "#EB5757",
-		grey: {
+		gray: {
 			100: "#E0E0E0",
 			300: "#828282",
 			600: "#333333",

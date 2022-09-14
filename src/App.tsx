@@ -1,7 +1,7 @@
-import React from "react";
+import { ChangeRoutes } from "./routes";
 
 function App() {
-	return <></>;
+	return <ChangeRoutes />;
 }
 
 export default App;

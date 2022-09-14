@@ -14,5 +14,5 @@ export const Route = ({
 }: Props) => {
 	// const { acessToken } = useAuth()
 
-	return <ReactRoute {...rest} />;
+	return <ReactRoute />;
 };
